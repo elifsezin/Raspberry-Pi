@@ -42,4 +42,6 @@ int main(int argc, char *argv[])
 
     i2cClose( i2c_handle );
 
+    return 0;
+
 }
