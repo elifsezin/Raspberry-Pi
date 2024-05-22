@@ -1,5 +1,5 @@
 /*
-    // gcc -Wall  -o pwm  pwm.c -lpigpio -lrt -lpthread
+    PWM Generation for inhibit pin control
 */
 
 
