@@ -1,5 +1,5 @@
 /*
-    // gcc -Wall  -o onoff onoff.c -lpigpio -lrt -lpthread
+   Code block to pover conservation, necessary explanations included
 */
 
 
