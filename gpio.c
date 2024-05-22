@@ -1,9 +1,5 @@
 /*
-   pulse.c
-
-   gcc -o pulse pulse.c -lpigpio -lrt -lpthread
-
-   sudo ./pulse
+GPIO Control via PiGPIO lib. for Raspberry Pi
 */
 
 #include <stdio.h>
