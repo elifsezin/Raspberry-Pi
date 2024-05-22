@@ -1,9 +1,5 @@
 /*
-   pulse.c
-
-   gcc -Wall -o i2cmux i2cmux.c -lpigpio -lrt -lpthread
-
-   sudo ./pulse
+Code block to control I2C mux and communicate with choosen digital potentiometer
 */
 
 #include <stdio.h>
