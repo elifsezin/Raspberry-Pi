@@ -1,9 +1,5 @@
 /*
-   pulse.c
-
-   gcc -o pulse pulse.c -lpigpio -lrt -lpthread
-
-   sudo ./pulse
+I2C Communication code block
 */
 
 #include <stdio.h>
